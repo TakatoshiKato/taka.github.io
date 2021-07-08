@@ -15,5 +15,5 @@ testtest
 add github 
 
 20210708 test add
->>>>>>> release
+
 20210708_r2 test add
